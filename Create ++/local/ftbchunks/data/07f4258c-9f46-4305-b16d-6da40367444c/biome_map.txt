@@ -1,0 +1,8 @@
+#010 minecraft:forest
+#5A5 biomesoplenty:orchard
+#3DC minecraft:plains
+#278 biomesoplenty:redwood_forest_edge
+#5FF minecraft:river
+#02B biomesoplenty:wetland
+#69F biomesoplenty:wetland_marsh
+#452 minecraft:wooded_hills

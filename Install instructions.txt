@@ -1,0 +1,34 @@
+Thanks for playing my modpack.
+Me and my team hope you like it
+
+
+Istallation:
+
+Press The windows key and 'R' Together
+Type %appdata%
+Press Run
+Find the folder '.Minecraft'
+Open it
+Find the folder Versions and open it
+paster the Create ++ folder in the Version folder
+And youre done!
+
+Just restart Your Minecraft Launcher and you should find the Create ++ modpack!
+
+
+
+
+
+
+
+The Team:
+
+Main Developer: MCorange
+Helper: Kaidargames
+
+
+
+Licenses:
+
+None 
+:)
